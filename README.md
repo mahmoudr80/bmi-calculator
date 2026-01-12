@@ -7,11 +7,12 @@ This project is designed to help developers learn Flutter fundamentals while bui
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/82ed8e88-c542-421d-a9c4-1b5f701ca945" width="45%" />
-  <img src="https://github.com/user-attachments/assets/6b6200c7-f15a-4416-8f32-5d8044cdc9bb" width="45%" />
+   <img src="https://github.com/user-attachments/assets/7b149b21-0776-462e-acb4-4759194e9824" width="45%" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b149b21-0776-462e-acb4-4759194e9824" width="45%" />
+ <img src="https://github.com/user-attachments/assets/6b6200c7-f15a-4416-8f32-5d8044cdc9bb" width="45%" />
 </p>
 
 
